@@ -1,0 +1,1108 @@
+[
+  {
+    "DeptCode": "BQ7110",
+    "Dept": "製造XX群(台灣) WorkFlow暨ERPIIXX心",
+    "UID": "00128",
+    "Name": "XXXX遠",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ6640",
+    "Dept": "製造XX群(台灣) 南區中小XX部",
+    "UID": "00130",
+    "Name": "XXXX君",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ5300",
+    "Dept": "製造XX群(台灣) 數位科XX營中心",
+    "UID": "00131",
+    "Name": "XXXX蓮",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0M20",
+    "Dept": "戰略XX處 財法XX中心(非大陸區)",
+    "UID": "00132",
+    "Name": "XXXX寬",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ3211",
+    "Dept": "製造XX群(台灣) 方案XX中心",
+    "UID": "00133",
+    "Name": "XXXX華",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ6000",
+    "Dept": "製造XX群(台灣) 機械暨交通XX件事業部",
+    "UID": "00134",
+    "Name": "XXXX良",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ6520",
+    "Dept": "製造XX群(台灣) 北區中XX業部",
+    "UID": "00136",
+    "Name": "XXXX毅",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ7010",
+    "Dept": "製造XX群(台灣) 智能製造暨方XX展中心",
+    "UID": "00137",
+    "Name": "XXXX霖",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "CG0200",
+    "Dept": "PaaSXX事業處 數智業XX業部",
+    "UID": "00138",
+    "Name": "XXXX助",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "CG0300",
+    "Dept": "PaaS平XX業處 數智技XX發中心",
+    "UID": "00139",
+    "Name": "XXXX明",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ6630",
+    "Dept": "製造XX群(台灣) 南區中XX業部",
+    "UID": "00142",
+    "Name": "XXXX仁",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ4230",
+    "Dept": "製造XX群(台灣) E增值XX中心",
+    "UID": "00145",
+    "Name": "XXXX萍",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ4330",
+    "Dept": "製造XX群(台灣) T增值XX中心",
+    "UID": "00146",
+    "Name": "XXXX初",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ5930",
+    "Dept": "製造XX群(台灣) 塑橡XX事業部",
+    "UID": "00147",
+    "Name": "XXXX枝",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0A30",
+    "Dept": "戰略XX處 共享XX心(非大陸區)",
+    "UID": "00148",
+    "Name": "XXXX秋",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0M10",
+    "Dept": "戰略XX處 財法XX心(非大陸區)",
+    "UID": "00149",
+    "Name": "XX汾",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ0000",
+    "Dept": "製造XX群(台灣)",
+    "UID": "00150",
+    "Name": "XX婷",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ3800",
+    "Dept": "製造XX群(台灣) E行業XX中心",
+    "UID": "00155",
+    "Name": "XX麗",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "CH0100",
+    "Dept": "AIoTXX處 工業XX發中心",
+    "UID": "00158",
+    "Name": "XX弘",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BZ0440",
+    "Dept": "流通解決方XX業處 E流通暨休XX業部",
+    "UID": "00159",
+    "Name": "XX玲",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BZ0810",
+    "Dept": "流通XX事業處 台灣流XX案中心",
+    "UID": "00160",
+    "Name": "XX婷",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ5340",
+    "Dept": "製造XX群(台灣) 數位科XX營中心",
+    "UID": "00162",
+    "Name": "XX明",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ3211",
+    "Dept": "製造XX群(台灣) 方案XX中心",
+    "UID": "00165",
+    "Name": "XX玲",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ53A0",
+    "Dept": "製造XX群(台灣) 數位科XX心",
+    "UID": "00167",
+    "Name": "XX村",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0A30",
+    "Dept": "戰略XX處 共XX中心(非大陸區)",
+    "UID": "00169",
+    "Name": "XX娟",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ6160",
+    "Dept": "製造XX群(台灣) 電子零XX事業部",
+    "UID": "00171",
+    "Name": "XX珠",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ7110",
+    "Dept": "製造XX群(台灣) WorkFloXX方案中心",
+    "UID": "00173",
+    "Name": "XX惠",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ7100",
+    "Dept": "製造XX群(台灣) WorkFlXX案中心",
+    "UID": "00174",
+    "Name": "XX琪",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ7110",
+    "Dept": "製造XX群(台灣) WorXXI方案中心",
+    "UID": "00175",
+    "Name": "XX美",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ4910",
+    "Dept": "製造XX群(台灣) A1商XX業部",
+    "UID": "00176",
+    "Name": "XX芝",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0E20",
+    "Dept": "戰略XX處 市場營XX(非大陸區)",
+    "UID": "00178",
+    "Name": "XX蕙",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ5250",
+    "Dept": "製造XX群(台灣) 雲XX中心",
+    "UID": "00180",
+    "Name": "XX寶",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BZ0660",
+    "Dept": "流通XX事業處 E流XX付中心",
+    "UID": "00181",
+    "Name": "XX如",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ4920",
+    "Dept": "製造XX群(台灣) A1商XX事業部",
+    "UID": "00182",
+    "Name": "XX評",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ53A1",
+    "Dept": "製造XX群(台灣) 數位科XX中心",
+    "UID": "00184",
+    "Name": "XX海",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0C20",
+    "Dept": "戰略XX處 人XX中心(非大陸區)",
+    "UID": "00187",
+    "Name": "XX鴻",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BX0200",
+    "Dept": "(撤)智能+研XX (撤)專XX公室",
+    "UID": "00188",
+    "Name": "XX峰",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BZ0440",
+    "Dept": "流通XX事業處 E流通暨XX事業部",
+    "UID": "00189",
+    "Name": "XX靖",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ53A1",
+    "Dept": "製造XX群(台灣) 數位科XX中心",
+    "UID": "00192",
+    "Name": "XX孝",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ6630",
+    "Dept": "製造XX群(台灣) 南區中XX業部",
+    "UID": "00196",
+    "Name": "XX仰",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ6900",
+    "Dept": "製造XX群(台灣) 夥伴共XX創新運營中心",
+    "UID": "00197",
+    "Name": "XX珍",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ4910",
+    "Dept": "製造XX群(台灣) A1商XX事業部",
+    "UID": "00198",
+    "Name": "XX祥",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0C20",
+    "Dept": "戰略XX處 人XX中心(非大陸區)",
+    "UID": "00202",
+    "Name": "XX琇",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BZ0620",
+    "Dept": "流通XX事業處 E流XX付中心",
+    "UID": "00205",
+    "Name": "XX瑜",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0G20",
+    "Dept": "戰略XX處 數位XX中心(非大陸區)",
+    "UID": "00209",
+    "Name": "XX助",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ0260",
+    "Dept": "製造XX群(台灣) 台北XX部",
+    "UID": "00211",
+    "Name": "XX安",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ5250",
+    "Dept": "製造XX群(台灣) 雲XX中心",
+    "UID": "00212",
+    "Name": "XX鴻",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ5200",
+    "Dept": "製造XX群(台灣) 雲XX中心",
+    "UID": "00213",
+    "Name": "XX真",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ7130",
+    "Dept": "製造XX群(台灣) WorkFlXX案中心",
+    "UID": "00215",
+    "Name": "XX君",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BZ0000",
+    "Dept": "流通XX事業處",
+    "UID": "00291",
+    "Name": "XX訓",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ6330",
+    "Dept": "製造XX群(台灣) E製造XX部",
+    "UID": "00292",
+    "Name": "XX靜",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ5810",
+    "Dept": "製造XX群(台灣) 工XX業部",
+    "UID": "00295",
+    "Name": "XX熙",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0C20",
+    "Dept": "戰略XX處 人XX中心(非大陸區)",
+    "UID": "00298",
+    "Name": "XX倫",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BZ0800",
+    "Dept": "流通XX事業處 台灣流XX中心",
+    "UID": "00299",
+    "Name": "XX泰",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0000",
+    "Dept": "戰略XX處",
+    "UID": "00302",
+    "Name": "XX杰",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BZ0300",
+    "Dept": "流通XX事業處 E食XX業部",
+    "UID": "00303",
+    "Name": "XX清",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0A30",
+    "Dept": "戰略XX處 共XX務中心(非大陸區)",
+    "UID": "00304",
+    "Name": "XX雯",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "HH0100",
+    "Dept": "內審XX室(虛擬一級) 內XX公室",
+    "UID": "00307",
+    "Name": "XX瑩",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BM3500",
+    "Dept": "製XX業群(大陸) 電子半導XX業部",
+    "UID": "00308",
+    "Name": "XX燕",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "CH0200",
+    "Dept": "AIoXX業處 OTXX部",
+    "UID": "00317",
+    "Name": "XX妍",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "CG0300",
+    "Dept": "PaaS平XX業處 數智技XX發中心",
+    "UID": "00320",
+    "Name": "XX良",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ6010",
+    "Dept": "製造XX群(台灣) 機械暨交通零XX事業部",
+    "UID": "00322",
+    "Name": "XX婷",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ6410",
+    "Dept": "製造XX群(台灣) T製造XX部",
+    "UID": "00330",
+    "Name": "XX媛",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ5310",
+    "Dept": "製造XX群(台灣) 數位科XX中心",
+    "UID": "00331",
+    "Name": "XX裕",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ4330",
+    "Dept": "製造XX群(台灣) T增值交XX心",
+    "UID": "00337",
+    "Name": "XX燕",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ3250",
+    "Dept": "製造XX群(台灣) 方案XX中心",
+    "UID": "00339",
+    "Name": "XX慶",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IP05H0",
+    "Dept": "鼎華XX系統 台灣東XX事業處",
+    "UID": "00342",
+    "Name": "XX觀",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "A00000",
+    "Dept": "總X",
+    "UID": "00343",
+    "Name": "XX信",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ7000",
+    "Dept": "製造XX群(台灣) 智能製造暨XX發展中心",
+    "UID": "00344",
+    "Name": "XX恆",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0C20",
+    "Dept": "戰略XX處 人XX中心(非大陸區)",
+    "UID": "00345",
+    "Name": "XX涵",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ6430",
+    "Dept": "製造XX群(台灣) T製造XX部",
+    "UID": "00347",
+    "Name": "XX中",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ6240",
+    "Dept": "製造XX群(台灣) E電XX業部",
+    "UID": "00348",
+    "Name": "XX志",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ3211",
+    "Dept": "製造XX群(台灣) 方案XX中心",
+    "UID": "00349",
+    "Name": "XX洋",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ6510",
+    "Dept": "製造XX群(台灣) 北區中XX業部",
+    "UID": "00350",
+    "Name": "XX儀",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BZ0550",
+    "Dept": "流通XX事業處 T流通暨休憩XX部",
+    "UID": "00352",
+    "Name": "XX傑",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ5900",
+    "Dept": "製造XX群(台灣) 塑橡化XX業部",
+    "UID": "00353",
+    "Name": "XX和",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ1900",
+    "Dept": "製造XX群(台灣) T行業XX心",
+    "UID": "00363",
+    "Name": "XX豪",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ7100",
+    "Dept": "製造XX群(台灣) WorkFlXX案中心",
+    "UID": "00364",
+    "Name": "XX韜",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ5610",
+    "Dept": "製造XX群(台灣) 醫XX業部",
+    "UID": "00368",
+    "Name": "XX鈞",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ6210",
+    "Dept": "製造XX群(台灣) E電XX業部",
+    "UID": "00370",
+    "Name": "XX政",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0A40",
+    "Dept": "戰略XX處 共XX務中心(非大陸區)",
+    "UID": "00375",
+    "Name": "XX芳",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IP0500",
+    "Dept": "鼎華XX系統 台灣東XX事業處",
+    "UID": "00376",
+    "Name": "XX达",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0C40",
+    "Dept": "戰略XX處 人XX中心(非大陸區)",
+    "UID": "00384",
+    "Name": "XX瑋",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ7030",
+    "Dept": "製造XX群(台灣) 智能製造暨XX發展中心",
+    "UID": "00391",
+    "Name": "XX真",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ5910",
+    "Dept": "製造XX群(台灣) 塑橡化XX業部",
+    "UID": "00393",
+    "Name": "XX中",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IP0500",
+    "Dept": "鼎華XX系統 台灣東XX事業處",
+    "UID": "00395",
+    "Name": "XX翔",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IP06C0",
+    "Dept": "鼎XX能系統 XX處",
+    "UID": "00402",
+    "Name": "XX涵",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IP05G0",
+    "Dept": "鼎華XX系統 台灣東XX事業處",
+    "UID": "00405",
+    "Name": "XX靜",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ2010",
+    "Dept": "製造XX群(台灣) 桃XX部",
+    "UID": "00406",
+    "Name": "XX禾",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0G40",
+    "Dept": "戰略XX處 數位XX中心(非大陸區)",
+    "UID": "00407",
+    "Name": "XX承",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0A40",
+    "Dept": "戰略XX處 共XX務中心(非大陸區)",
+    "UID": "00411",
+    "Name": "XX芳",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "CG0300",
+    "Dept": "PaaS平XX業處 數智技XX發中心",
+    "UID": "00413",
+    "Name": "XX鷰",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ4260",
+    "Dept": "製造XX群(台灣) E增值XX中心",
+    "UID": "00414",
+    "Name": "XX蓉",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ0600",
+    "Dept": "製造XX群(台灣) 台XX部",
+    "UID": "00417",
+    "Name": "XX助",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ3880",
+    "Dept": "製造XX群(台灣) E行業XX心",
+    "UID": "00418",
+    "Name": "XX德",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0A00",
+    "Dept": "戰略XX處 共XX務中心(非大陸區)",
+    "UID": "00421",
+    "Name": "XX慧",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ5370",
+    "Dept": "製造XX群(台灣) 數位科XX中心",
+    "UID": "00427",
+    "Name": "XX恩",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ0000",
+    "Dept": "製造XX群(台灣)",
+    "UID": "00428",
+    "Name": "XX容",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ4320",
+    "Dept": "製造XX群(台灣) T增值交XX心",
+    "UID": "00433",
+    "Name": "XX紅",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ7150",
+    "Dept": "製造XX群(台灣) WorkFlXX案中心",
+    "UID": "00435",
+    "Name": "XX蘋",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "CI0200",
+    "Dept": "製造解決方XX業處 數字運營XX事業部",
+    "UID": "00613",
+    "Name": "XX湳",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ6100",
+    "Dept": "製造XX群(台灣) 電子XX件暨IPC事業部",
+    "UID": "00623",
+    "Name": "XX如",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "CI0100",
+    "Dept": "製造解決XX事業處 裝備製XX部",
+    "UID": "00624",
+    "Name": "XX春",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ7100",
+    "Dept": "製造XX群(台灣) WorkFlXX案中心",
+    "UID": "00625",
+    "Name": "XX惠",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BZ0860",
+    "Dept": "流通XX事業處 台灣流XX中心",
+    "UID": "00631",
+    "Name": "XX惠",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ7110",
+    "Dept": "製造XX群(台灣) WorkFlXX案中心",
+    "UID": "00632",
+    "Name": "XX旗",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ4910",
+    "Dept": "製造XX群(台灣) A1商XX事業部",
+    "UID": "00636",
+    "Name": "XX珍",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IP0300",
+    "Dept": "鼎華XX系統 董事長XX室",
+    "UID": "00637",
+    "Name": "XX雄",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BZ0100",
+    "Dept": "流通XX事業處 食日XX業部",
+    "UID": "00639",
+    "Name": "XX華",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BZ0860",
+    "Dept": "流通XX事業處 台灣流XX中心",
+    "UID": "00640",
+    "Name": "XX杰",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BZ0720",
+    "Dept": "流通XX事業處 行業XX中心",
+    "UID": "00642",
+    "Name": "XX葶",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0A30",
+    "Dept": "戰略XX處 共XX務中心(非大陸區)",
+    "UID": "00643",
+    "Name": "XX妤",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ6330",
+    "Dept": "製造XX群(台灣) E製造XX部",
+    "UID": "00648",
+    "Name": "XX蕙",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0A20",
+    "Dept": "戰略XX處 共XX務中心(非大陸區)",
+    "UID": "00653",
+    "Name": "XX純",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0G30",
+    "Dept": "戰略XX處 數位XX中心(非大陸區)",
+    "UID": "00656",
+    "Name": "XX隆",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ7170",
+    "Dept": "製造XX群(台灣) WorkFlXX案中心",
+    "UID": "00658",
+    "Name": "XX芬",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "CG0300",
+    "Dept": "PaaS平XX業處 數智技XX發中心",
+    "UID": "00662",
+    "Name": "XX軒",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ5800",
+    "Dept": "製造XX群(台灣) 工XX業部",
+    "UID": "00671",
+    "Name": "XX傑",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "CG0200",
+    "Dept": "PaaS平XX業處 數智業XX業部",
+    "UID": "00675",
+    "Name": "XX璋",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ4280",
+    "Dept": "製造XX群(台灣) E增值XX中心",
+    "UID": "00678",
+    "Name": "XX玉",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ5310",
+    "Dept": "製造XX群(台灣) 數位科XX中心",
+    "UID": "00679",
+    "Name": "XX凡",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BZ0850",
+    "Dept": "流通XX事業處 台灣流XX中心",
+    "UID": "00683",
+    "Name": "XX廷",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IP05G2",
+    "Dept": "鼎華XX系統 台灣東XX事業處",
+    "UID": "00704",
+    "Name": "XX芳",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BZ0660",
+    "Dept": "流通XX事業處 E流XX付中心",
+    "UID": "00705",
+    "Name": "XX雯",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0G40",
+    "Dept": "戰略XX處 數位XX中心(非大陸區)",
+    "UID": "00710",
+    "Name": "XX熹",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ5350",
+    "Dept": "製造XX群(台灣) 數位科XX中心",
+    "UID": "00716",
+    "Name": "XX雄",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ7020",
+    "Dept": "製造XX群(台灣) 智能製造暨XX發展中心",
+    "UID": "00717",
+    "Name": "XX誌",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ6550",
+    "Dept": "製造XX群(台灣) 北區中XX業部",
+    "UID": "00718",
+    "Name": "XX俞",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ53A1",
+    "Dept": "製造XX群(台灣) 數位科XX中心",
+    "UID": "00719",
+    "Name": "XX麟",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ7170",
+    "Dept": "製造XX群(台灣) WorkFlXX案中心",
+    "UID": "00728",
+    "Name": "XX欣",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ0000",
+    "Dept": "製造XX群(台灣)",
+    "UID": "00740",
+    "Name": "XX雲",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ53A1",
+    "Dept": "製造XX群(台灣) 數位科XX中心",
+    "UID": "00741",
+    "Name": "XX琮",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ7140",
+    "Dept": "製造XX群(台灣) WorkFlXX案中心",
+    "UID": "00745",
+    "Name": "XX宏",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ7130",
+    "Dept": "製造XX群(台灣) WorkFlXX案中心",
+    "UID": "00753",
+    "Name": "XX心",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ6400",
+    "Dept": "製造XX群(台灣) T製造XX部",
+    "UID": "00755",
+    "Name": "XX倫",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ7110",
+    "Dept": "製造XX群(台灣) WorkFlXX案中心",
+    "UID": "00756",
+    "Name": "XX洲",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BZ0872",
+    "Dept": "流通XX事業處 台灣流XX中心",
+    "UID": "00777",
+    "Name": "XX君",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ7100",
+    "Dept": "製造XX群(台灣) WorkFlXX案中心",
+    "UID": "00778",
+    "Name": "XX展",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ7140",
+    "Dept": "製造XX群(台灣) WorkFlXX案中心",
+    "UID": "00779",
+    "Name": "XX鏻",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0A30",
+    "Dept": "戰略XX處 共XX務中心(非大陸區)",
+    "UID": "00795",
+    "Name": "XX慧",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ6160",
+    "Dept": "製造XX群(台灣) 電子XX件暨IPC事業部",
+    "UID": "00799",
+    "Name": "XX娟",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ7100",
+    "Dept": "製造XX群(台灣) WorkFlXX案中心",
+    "UID": "00804",
+    "Name": "XX智",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BZ0871",
+    "Dept": "流通XX事業處 台灣流XX中心",
+    "UID": "00813",
+    "Name": "XX源",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0M20",
+    "Dept": "戰略XX處 財法XX中心(非大陸區)",
+    "UID": "00814",
+    "Name": "XX彬",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ4290",
+    "Dept": "製造XX群(台灣) E增值XX中心",
+    "UID": "00815",
+    "Name": "XX琪",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BZ0600",
+    "Dept": "流通XX事業處 E流XX付中心",
+    "UID": "00818",
+    "Name": "XX甫",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "IQ0M00",
+    "Dept": "戰略XX處 財法XX中心(非大陸區)",
+    "UID": "00822",
+    "Name": "XX成",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "CI0200",
+    "Dept": "製造解決方XX業處 數字運營XX事業部",
+    "UID": "00824",
+    "Name": "XX仙",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ5360",
+    "Dept": "製造XX群(台灣) 數位科XX中心",
+    "UID": "01031",
+    "Name": "XX輝",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ5250",
+    "Dept": "製造XX群(台灣) 雲XX中心",
+    "UID": "01041",
+    "Name": "XX菁",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "CG0180",
+    "Dept": "PaaS平XX業處 數智方案XX能中心",
+    "UID": "01042",
+    "Name": "XX達",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ5230",
+    "Dept": "製造XX群(台灣) 雲XX中心",
+    "UID": "01043",
+    "Name": "XX妙",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ6700",
+    "Dept": "製造XX群(台灣) 數位科XX業部",
+    "UID": "01045",
+    "Name": "XX毅",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ5370",
+    "Dept": "製造XX群(台灣) 數位科XX中心",
+    "UID": "01046",
+    "Name": "XX儒",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ5210",
+    "Dept": "製造XX群(台灣) 雲XX中心",
+    "UID": "01056",
+    "Name": "XX鳳",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ5220",
+    "Dept": "製造XX群(台灣) 雲XX中心",
+    "UID": "01057",
+    "Name": "XX怡",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ7110",
+    "Dept": "製造XX群(台灣) WorkFlXX案中心",
+    "UID": "01059",
+    "Name": "XX萱",
+    "Region": "OC"
+  },
+  {
+    "DeptCode": "BQ42A0",
+    "Dept": "製造XX群(台灣) E增值XX中心",
+    "UID": "01065",
+    "Name": "XX祥",
+    "Region": "OC"
+  }
+]
