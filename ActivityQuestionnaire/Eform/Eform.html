@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>表單</title>
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://www.digiwin.com/tw/dsc/css/reset.css">
+</head>
+
+<body>
+    <link rel="stylesheet" href="css/Eform.css">
+    <link rel="stylesheet" href="css/Eform/xcConfirm.css" />
+    <div class="eform">
+        <div class="eform_header">
+            <div class="content">
+                <h1>數位轉型 需求諮詢</h1>
+                <h2>開啟數位轉型的第一步，讓我們了解您想解決什麼問題、想達成什麼目標開始！<br>若您需要立即的支援與服務，可於上班時間(周一~周五08:30-17:45)直撥免付費專線，以取得快速服務。</h2>
+                <div class="header_serve">
+                    <img src="images/eforms/header-peo.png" alt="">
+                    <div class="header_servetxt">
+                        <h3>服務專線：0800-888-162</h3>
+                        <p>若您所屬行業為製造業，或有資安、OT相關需求，可撥打：0809-088-958</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="eform_form">
+            <div class="content">
+                <h1>請完整填寫以下資料<span>(*為必填)</span>，收到後會盡快聯繫您</h1>
+                <div class="form_inputs">
+                    <div class="form_input">
+                        <label for="contact_person"><span>*</span>姓名：</label>
+                        <input type="text" class="form-confirm form-name" id="contact_person">
+                    </div>
+                </div>
+                <div class="form_inputs">
+                    <div class="form_input">
+                        <label for="contact-email"><span>*</span>公司E-mail：</label>
+                        <input type="text" class="form-confirm form-email" id="contact-email">
+                    </div>
+                </div>
+                <div class="form_inputs">
+                    <div class="form_input">
+                        <label for="contact-mobile"><span>*</span>聯絡電話：</label>
+                        <input type="text" class="form-confirm form-telephone" id="contact-mobile">
+                    </div>
+                </div>
+                <div class="form_inputs">
+                    <div class="form_input">
+                        <label for="contact-company"><span>*</span>公司名稱：</label>
+                        <input type="text" class="form-confirm form-company" id="contact-company" placeholder="(請填寫完整公司名稱)">
+                    </div>
+                </div>
+                <div class="form_inputs">
+                    <div class="form_function">
+                        <h2><span>*</span>職能別：</h2>
+                        <div class="form_functionslides">
+                            <div class="form_functionslide">
+                                <input type="checkbox" id="function1" name="fun-1" class="functioncheckbox" value="1">
+                                <label for="function1">
+                                    <div class="cate_box"></div>生管物控
+                                </label>
+                            </div>
+                            <div class="form_functionslide">
+                                <input type="checkbox" id="function2" name="fun-1" class="functioncheckbox" value="2">
+                                <label for="function2">
+                                    <div class="cate_box"></div>生產製造
+                                </label>
+                            </div>
+                            <div class="form_functionslide">
+                                <input type="checkbox" id="function3" name="fun-1" class="functioncheckbox" value="3">
+                                <label for="function3">
+                                    <div class="cate_box"></div>採購資材
+                                </label>
+                            </div>
+                            <div class="form_functionslide">
+                                <input type="checkbox" id="function4" name="fun-1" class="functioncheckbox" value="4">
+                                <label for="function4">
+                                    <div class="cate_box"></div>品管品保
+                                </label>
+                            </div>
+                            <div class="form_functionslide">
+                                <input type="checkbox" id="function5" name="fun-1" class="functioncheckbox" value="26">
+                                <label for="function5">
+                                    <div class="cate_box"></div>專案管理PM
+                                </label>
+                            </div>
+                            <div class="form_functionslide">
+                                <input type="checkbox" id="function6" name="fun-1" class="functioncheckbox" value="9">
+                                <label for="function6">
+                                    <div class="cate_box"></div>業務銷售
+                                </label>
+                            </div>
+                            <div class="form_functionslide">
+                                <input type="checkbox" id="function7" name="fun-1" class="functioncheckbox" value="10">
+                                <label for="function7">
+                                    <div class="cate_box"></div>行銷企劃
+                                </label>
+                            </div>
+                            <div class="form_functionslide">
+                                <input type="checkbox" id="function8" name="fun-1" class="functioncheckbox" value="13">
+                                <label for="function8">
+                                    <div class="cate_box"></div>門市人員
+                                </label>
+                            </div>
+                            <div class="form_functionslide">
+                                <input type="checkbox" id="function9" name="fun-1" class="functioncheckbox" value="14">
+                                <label for="function9">
+                                    <div class="cate_box"></div>客服人員
+                                </label>
+                            </div>
+                            <div class="form_functionslide">
+                                <input type="checkbox" id="function10" name="fun-1" class="functioncheckbox" value="15">
+                                <label for="function10">
+                                    <div class="cate_box"></div>人力資源
+                                </label>
+                            </div>
+                            <div class="form_functionslide">
+                                <input type="checkbox" id="function11" name="fun-1" class="functioncheckbox" value="16">
+                                <label for="function11">
+                                    <div class="cate_box"></div>技術研發
+                                </label>
+                            </div>
+                            <div class="form_functionslide">
+                                <input type="checkbox" id="function12" name="fun-1" class="functioncheckbox" value="17">
+                                <label for="function12">
+                                    <div class="cate_box"></div>財務
+                                </label>
+                            </div>
+                            <div class="form_functionslide">
+                                <input type="checkbox" id="function13" name="fun-1" class="functioncheckbox" value="19">
+                                <label for="function13">
+                                    <div class="cate_box"></div>會計
+                                </label>
+                            </div>
+                            <div class="form_functionslide">
+                                <input type="checkbox" id="function14" name="fun-1" class="functioncheckbox" value="20">
+                                <label for="function14">
+                                    <div class="cate_box"></div>IT資訊
+                                </label>
+                            </div>
+                            <div class="form_functionslide">
+                                <input type="checkbox" id="function15" name="fun-1" class="functioncheckbox" value="21">
+                                <label for="function15">
+                                    <div class="cate_box"></div>稽核
+                                </label>
+                            </div>
+                            <div class="form_functionslide">
+                                <input type="checkbox" id="function16" name="fun-1" class="functioncheckbox" value="2">
+                                <label for="function16">
+                                    <div class="cate_box"></div>法務智財
+                                </label>
+                            </div>
+                            <div class="form_functionslide">
+                                <input type="checkbox" id="function17" name="fun-1" class="functioncheckbox" value="23">
+                                <label for="function17">
+                                    <div class="cate_box"></div>行政
+                                </label>
+                            </div>
+                            <div class="form_functionslide">
+                                <input type="checkbox" id="function18" name="fun-1" class="functioncheckbox" value="25">
+                                <label for="function18">
+                                    <div class="cate_box"></div>經營層/幕僚
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="form_inputs">
+                    <div class="form_job">
+                        <h2><span>*</span>職稱：</h2>
+                        <div class="form_jobslides">
+                            <div class="form_jobslide">
+                                <input type="radio" id="job1" name="job-1" class="jobcheckbox" value="1">
+                                <label for="job1">
+                                    <div class="cate_box"></div>董事長
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job2" name="job-1" class="jobcheckbox" value="5">
+                                <label for="job2">
+                                    <div class="cate_box"></div>董事
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job3" name="job-1" class="jobcheckbox" value="6">
+                                <label for="job3">
+                                    <div class="cate_box"></div>總裁
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job4" name="job-1" class="jobcheckbox" value="7">
+                                <label for="job4">
+                                    <div class="cate_box"></div>副總裁
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job5" name="job-1" class="jobcheckbox" value="8">
+                                <label for="job5">
+                                    <div class="cate_box"></div>總經理
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job6" name="job-1" class="jobcheckbox" value="9">
+                                <label for="job6">
+                                    <div class="cate_box"></div>副總經理
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job7" name="job-1" class="jobcheckbox" value="10">
+                                <label for="job7">
+                                    <div class="cate_box"></div>特別助理
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job8" name="job-1" class="jobcheckbox" value="11">
+                                <label for="job8">
+                                    <div class="cate_box"></div>執行長
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job9" name="job-1" class="jobcheckbox" value="12">
+                                <label for="job9">
+                                    <div class="cate_box"></div>策略長
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job10" name="job-1" class="jobcheckbox" value="13">
+                                <label for="job10">
+                                    <div class="cate_box"></div>營運長
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job11" name="job-1" class="jobcheckbox" value="14">
+                                <label for="job11">
+                                    <div class="cate_box"></div>財務長
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job12" name="job-1" class="jobcheckbox" value="15">
+                                <label for="job12">
+                                    <div class="cate_box"></div>資訊長
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job13" name="job-1" class="jobcheckbox" value="19">
+                                <label for="job13">
+                                    <div class="cate_box"></div>院長
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job14" name="job-1" class="jobcheckbox" value="21">
+                                <label for="job14">
+                                    <div class="cate_box"></div>處長
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job15" name="job-1" class="jobcheckbox" value="22">
+                                <label for="job15">
+                                    <div class="cate_box"></div>協理
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job16" name="job-1" class="jobcheckbox" value="23">
+                                <label for="job16">
+                                    <div class="cate_box"></div>廠長
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job17" name="job-1" class="jobcheckbox" value="24">
+                                <label for="job17">
+                                    <div class="cate_box"></div>總監
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job18" name="job-1" class="jobcheckbox" value="29">
+                                <label for="job18">
+                                    <div class="cate_box"></div>經理
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job19" name="job-1" class="jobcheckbox" value="30">
+                                <label for="job19">
+                                    <div class="cate_box"></div>副理
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job20" name="job-1" class="jobcheckbox" value="32">
+                                <label for="job20">
+                                    <div class="cate_box"></div>店長
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job21" name="job-1" class="jobcheckbox" value="33">
+                                <label for="job21">
+                                    <div class="cate_box"></div>襄理
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job22" name="job-1" class="jobcheckbox" value="34">
+                                <label for="job22">
+                                    <div class="cate_box"></div>課長
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job23" name="job-1" class="jobcheckbox" value="36">
+                                <label for="job23">
+                                    <div class="cate_box"></div>主任
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job24" name="job-1" class="jobcheckbox" value="39">
+                                <label for="job24">
+                                    <div class="cate_box"></div>組長
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job25" name="job-1" class="jobcheckbox" value="41">
+                                <label for="job25">
+                                    <div class="cate_box"></div>專員
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job26" name="job-1" class="jobcheckbox" value="43">
+                                <label for="job26">
+                                    <div class="cate_box"></div>工程師
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job27" name="job-1" class="jobcheckbox" value="45">
+                                <label for="job27">
+                                    <div class="cate_box"></div>秘書
+                                </label>
+                            </div>
+                            <div class="form_jobslide">
+                                <input type="radio" id="job28" name="job-1" class="jobcheckbox" value="46">
+                                <label for="job28">
+                                    <div class="cate_box"></div>助理
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="form_categorys">
+                    <div class="categorys_content">
+                        <h2><span>*</span>諮詢類別(可複選)</h2>
+                        <div class="form_category">
+                            <h3>行業管理需求</h3>
+                            <div class="form_cates">
+                                <div class="form_cateall">
+                                    <input type="checkbox" id="cate1-1" name="cate1" class="catecheckbox" value="1">
+                                    <label for="cate1-1"><div class="cate_box"></div>行業管理方案整體規劃</label>
+                                </div>
+                                <div class="form_cate">
+                                    <h4>製造業</h4>
+                                    <div class="cate_input"><input type="checkbox" id="cate1-2" name="cate1" class="catecheckbox" value="2"><label for="cate1-2"><div class="cate_box"></div>銷售報價管理</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate1-3" name="cate1" class="catecheckbox" value="3"><label for="cate1-3"><div class="cate_box"></div>產銷管理</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate1-4" name="cate1" class="catecheckbox" value="4"><label for="cate1-4"><div class="cate_box"></div>存貨備料管理</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate1-5" name="cate1" class="catecheckbox" value="5"><label for="cate1-5"><div class="cate_box"></div>現場進度透明化</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate1-6" name="cate1" class="catecheckbox" value="6"><label for="cate1-6"><div class="cate_box"></div>品質追溯管理</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate1-7" name="cate1" class="catecheckbox" value="7"><label for="cate1-7"><div class="cate_box"></div>成本毛利掌控</label></div>
+                                </div>
+                                <div class="form_cate">
+                                    <h4>零售業</h4>
+                                    <div class="cate_input"><input type="checkbox" id="cate1-8" name="cate1" class="catecheckbox" value="8"><label for="cate1-8"><div class="cate_box"></div>會員營銷</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate1-9" name="cate1" class="catecheckbox" value="9"><label for="cate1-9"><div class="cate_box"></div>網購電商</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate1-10" name="cate1" class="catecheckbox" value="10"><label for="cate1-10"><div class="cate_box"></div>連鎖通路</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate1-11" name="cate1" class="catecheckbox" value="11"><label for="cate1-11"><div class="cate_box"></div>經銷代理</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate1-12" name="cate1" class="catecheckbox" value="12"><label for="cate1-12"><div class="cate_box"></div>虛實整合</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate1-13" name="cate1" class="catecheckbox" value="13"><label for="cate1-13"><div class="cate_box"></div>通路損益</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate1-14" name="cate1" class="catecheckbox" value="14"><label for="cate1-14"><div class="cate_box"></div>總部運營</label></div>
+                                </div>
+                                <div class="form_cate">
+                                    <h4>工程業</h4>
+                                    <div class="cate_input"><input type="checkbox" id="cate1-15" name="cate1" class="catecheckbox" value="15"><label for="cate1-15"><div class="cate_box"></div>損益管理</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate1-16" name="cate1" class="catecheckbox" value="16"><label for="cate1-16"><div class="cate_box"></div>預算管理</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate1-17" name="cate1" class="catecheckbox" value="17"><label for="cate1-17"><div class="cate_box"></div>專案進度管理</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate1-18" name="cate1" class="catecheckbox" value="18"><label for="cate1-18"><div class="cate_box"></div>合約管理</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate1-19" name="cate1" class="catecheckbox" value="19"><label for="cate1-19"><div class="cate_box"></div>IRR風險管理</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate1-20" name="cate1" class="catecheckbox" value="20"><label for="cate1-20"><div class="cate_box"></div>施工日報管理</label></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form_category">
+                            <h3>智慧工廠IT+OT</h3>
+                            <div class="form_cates">
+                                <div class="form_cateall">
+                                    <input type="checkbox" id="cate2-1" name="cate2" class="catecheckbox" value="21">
+                                    <label for="cate2-1"><div class="cate_box"></div>數智工廠整體規劃</label>
+                                </div>
+                                <div class="form_cate">
+                                    <h4>IT</h4>
+                                    <div class="cate_input"><input type="checkbox" id="cate2-2" name="cate2" class="catecheckbox" value="22"><label for="cate2-2"><div class="cate_box"></div>MES智慧現場</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate2-3" name="cate2" class="catecheckbox" value="23"><label for="cate2-3"><div class="cate_box"></div>APS智慧排程</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate2-4" name="cate2" class="catecheckbox" value="24"><label for="cate2-4"><div class="cate_box"></div>WMS廠內智能物流</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate2-5" name="cate2" class="catecheckbox" value="25"><label for="cate2-5"><div class="cate_box"></div>FWR智慧戰情室</label></div>
+                                </div>
+                                <div class="form_cate">
+                                    <h4>OT</h4>
+                                    <div class="cate_input"><input type="checkbox" id="cate2-6" name="cate2" class="catecheckbox" value="26"><label for="cate2-6"><div class="cate_box"></div>機聯網</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate2-7" name="cate2" class="catecheckbox" value="27"><label for="cate2-7"><div class="cate_box"></div>能源管理</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate2-8" name="cate2" class="catecheckbox" value="28"><label for="cate2-8"><div class="cate_box"></div>機械手臂</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate2-9" name="cate2" class="catecheckbox" value="29"><label for="cate2-9"><div class="cate_box"></div>AOI</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate2-10" name="cate2" class="catecheckbox" value="30"><label for="cate2-10"><div class="cate_box"></div>AGV</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate2-11" name="cate2" class="catecheckbox" value="31"><label for="cate2-11"><div class="cate_box"></div>自動倉儲</label></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form_category">
+                            <h3>ERP/ERPII系統</h3>
+                            <div class="form_cates">
+                                <div class="form_cateall">
+                                    <input type="checkbox" id="cate3-1" name="cate3" class="catecheckbox" value="32">
+                                    <label for="cate3-1"><div class="cate_box"></div>ERP企業資源整體規劃</label>
+                                </div>
+                                <div class="form_cate form_catemb">
+                                    <div class="cate_input"><input type="checkbox" id="cate3-2" name="cate3" class="catecheckbox" value="33"><label for="cate3-2"><div class="cate_box"></div>進銷存管理系統</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate3-3" name="cate3" class="catecheckbox" value="34"><label for="cate3-3"><div class="cate_box"></div>BPM企業流程管理</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate3-4" name="cate3" class="catecheckbox" value="35"><label for="cate3-4"><div class="cate_box"></div>PLM產品研發管理</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate3-5" name="cate3" class="catecheckbox" value="36"><label for="cate3-5"><div class="cate_box"></div>CRM客戶關係管理</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate3-6" name="cate3" class="catecheckbox" value="37"><label for="cate3-6"><div class="cate_box"></div>HRM人力資源管理</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate3-7" name="cate3" class="catecheckbox" value="38"><label for="cate3-7"><div class="cate_box"></div>POS門店管理系統</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate3-8" name="cate3" class="catecheckbox" value="39"><label for="cate3-8"><div class="cate_box"></div>BI商業智慧</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate3-9" name="cate3" class="catecheckbox" value="40"><label for="cate3-9"><div class="cate_box"></div>小微企業雲端ERP(免費試用)</label></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form_category">
+                            <h3>資安需求</h3>
+                            <div class="form_cates">
+                                <div class="form_cateall">
+                                    <input type="checkbox" id="cate4-1" name="cate4" class="catecheckbox" value="41">
+                                    <label for="cate4-1"><div class="cate_box"></div>資安風險整體規劃</label>
+                                </div>
+                                <div class="form_cate form_catemb">
+                                    <div class="cate_input"><input type="checkbox" id="cate4-2" name="cate4" class="catecheckbox" value="42"><label for="cate4-2"><div class="cate_box"></div>端點資安防護</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate4-3" name="cate4" class="catecheckbox" value="43"><label for="cate4-3"><div class="cate_box"></div>網路資安防護</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate4-4" name="cate4" class="catecheckbox" value="44"><label for="cate4-4"><div class="cate_box"></div>郵件管理防護</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate4-5" name="cate4" class="catecheckbox" value="45"><label for="cate4-5"><div class="cate_box"></div>資料備份備援</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate4-6" name="cate4" class="catecheckbox" value="46"><label for="cate4-6"><div class="cate_box"></div>機房環境管控</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate4-7" name="cate4" class="catecheckbox" value="47"><label for="cate4-7"><div class="cate_box"></div>OT資安防護</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate4-8" name="cate4" class="catecheckbox" value="48"><label for="cate4-8"><div class="cate_box"></div>硬體需求規劃</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate4-9" name="cate4" class="catecheckbox" value="49"><label for="cate4-9"><div class="cate_box"></div>資安適法規畫</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate4-10" name="cate4" class="catecheckbox" value="50"><label for="cate4-10"><div class="cate_box"></div>遠距辦公方案</label></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form_category">
+                            <h3>ESG需求</h3>
+                            <div class="form_cates">
+                                <div class="form_cateall">
+                                    <input type="checkbox" id="cate5-1" name="cate5" class="catecheckbox" value="51">
+                                    <label for="cate5-1"><div class="cate_box"></div>ESG整體藍圖規畫</label>
+                                </div>
+                                <div class="form_cate form_catemb">
+                                    <div class="cate_input"><input type="checkbox" id="cate5-2" name="cate5" class="catecheckbox" value="52"><label for="cate5-2"><div class="cate_box"></div>碳盤查方案</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate5-3" name="cate5" class="catecheckbox" value="53"><label for="cate5-3"><div class="cate_box"></div>能源管理方案</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate5-4" name="cate5" class="catecheckbox" value="54"><label for="cate5-4"><div class="cate_box"></div>職場環安衛方案</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate5-5" name="cate5" class="catecheckbox" value="55"><label for="cate5-5"><div class="cate_box"></div>勞動法遵方案</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate5-6" name="cate5" class="catecheckbox" value="56"><label for="cate5-6"><div class="cate_box"></div>資訊安全解決方案</label></div>
+                                    <div class="cate_input"><input type="checkbox" id="cate5-7" name="cate5" class="catecheckbox" value="57"><label for="cate5-7"><div class="cate_box"></div>ESG報告書</label></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form_category">
+                            <h3>海外市場在地服務</h3>
+                            <div class="form_cates">
+                                <div class="form_cateall">
+                                    <input type="checkbox" id="cate6-1" name="cate6" class="catecheckbox" value="58">
+                                    <label for="cate6-1"><div class="cate_box"></div>東南亞(越/馬/泰)系統方案規劃</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="form_consult">
+                    <div class="consult_content">
+                        <h2>諮詢內容：</h2>
+                        <textarea name="consult" maxlength="500" placeholder="請簡述需求，告訴我們希望可以怎麼協助您" id="contact-query"></textarea>
+                    </div>
+                </div>
+                <div class="form_other">
+                    <div class="other_content">
+                        <h2>除此之外，您是否還希望以什麼形式獲取與您需求相關的內容？(可複選)</h2>
+                        <div class="form_cate form_catemb">
+                            <div class="cate_input"><input type="checkbox" id="other1" name="ot-1" class="othercheckbox" value="1"><label for="other1"><div class="cate_box"></div>訂閱電子報</label></div>
+                            <div class="cate_input"><input type="checkbox" id="other2" name="ot-1" class="othercheckbox" value="2"><label for="other2"><div class="cate_box"></div>索取成功案例</label></div>
+                            <div class="cate_input"><input type="checkbox" id="other3" name="ot-1" class="othercheckbox" value="3"><label for="other3"><div class="cate_box"></div>參與線上活動</label></div>
+                            <div class="cate_input"><input type="checkbox" id="other4" name="ot-1" class="othercheckbox" value="4"><label for="other4"><div class="cate_box"></div>下載方案型錄</label></div>
+                            <div class="cate_input"><input type="checkbox" id="other5" name="ot-1" class="othercheckbox" value="5"><label for="other5"><div class="cate_box"></div>線上診斷評量</label></div>
+                            <div class="cate_input"><input type="checkbox" id="other6" name="ot-1" class="othercheckbox" value="6"><label for="other6"><div class="cate_box"></div>雲端產品試用體驗</label></div>
+                            <div class="cate_input"><input type="checkbox" id="other7" name="ot-1" class="othercheckbox" value="7"><label for="other7"><div class="cate_box"></div>參訪5GAIoT體驗基地</label></div>
+                            <div class="cate_input"><input type="checkbox" id="other8" name="ot-1" class="othercheckbox" value="8"><label for="other8"><div class="cate_box"></div>取得方案報價</label></div>
+                            <div class="cate_input"><input type="checkbox" id="other9" name="ot-1" class="othercheckbox" value="9"><label for="other9"><div class="cate_box"></div>預約規劃師諮詢</label></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="form_verifica">
+                    <div class="verifica_content">
+					    <div class="Contact_input">
+                            <label for="contact-vercode"><span>*</span>請輸入驗証碼：</label>
+                            <input
+                                type="text"
+                                name="contact-vercode"
+                                id="contact-vercode"
+                            />
+                        </div>
+                        <div class="Contact_codes">
+                            <input type="button" class="Contact_vericodePic" />
+                            <div class="Contact_Remake"></div>
+                        </div>
+                    </div>
+				</div>
+                <div class="form_submit">
+                    <button id="submit">提交資料</button>
+                    <div class="form_privacy">
+                        <input type="radio" id="reserve1" name="reserve1" checked>
+                        <label for="reserve1"><div class="cate_box"></div>我同意接受鼎新電腦<a href="">隱私權聲明</a></label>
+                    </div>
+                </div>
+			    <a id="fromSource" href="javascript:;">contact</a> 
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="js/Eform/xcConfirm.js"></script>
+    <script src="js/crypto-js.min.js"></script>
+    <script src="js/Eform.min.js?v=20240620"></script>
+</body>
+
+</html>

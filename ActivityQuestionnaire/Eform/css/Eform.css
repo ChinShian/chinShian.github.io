@@ -1,0 +1,561 @@
+.eform_header{
+    background: url("../images/eforms/header-bg.png") no-repeat center;
+}
+.eform_header .content{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 45px 15px;
+}
+.eform_header .content h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: #70fafc;
+    text-align: center;
+    margin: 0 0 30px;
+}
+.eform_header .content h2{
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    line-height: 1.3;
+    margin: 0 0 35px;
+}
+.eform_header .content .header_serve{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 720px;
+    margin: 0 auto;
+    background: rgba(224, 229, 243, .90);
+    border-radius: 35px;
+    padding: 9px 15px;
+    font-weight: bold;
+}
+.eform_header .content .header_serve img{
+    margin: 0 10px 0 0;
+}
+.eform_header .content .header_serve .header_servetxt h3{
+    font-size: 22px;
+    font-weight: bold;
+    color: #2657c3;
+    margin: 0 0 5px;
+}
+.eform_header .content .header_serve .header_servetxt p{
+    font-size: 18px;
+    color: #000;
+    line-height: 1.2;
+}
+.eform_form{
+    padding: 70px 15px;
+}
+.eform_form .content{
+    max-width: 1200px;
+    margin: 0 auto;
+    border: 1px solid #c7e8f2;
+    border-radius: 10px;
+}
+.eform_form .content h1{
+    width: 100%;
+    background: #c7e8f2;
+    font-size: 22px;
+    color: #000;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 15px 0;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 1.3;
+}
+.eform_form .content h1 span{
+    color: #ff0000;
+}
+.eform_form .content .form_inputs{
+    padding: 0 50px;
+    display: flex;
+}
+.eform_form .content .form_input{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #c8d3dd;
+    padding: 16.5px 20px;
+}
+.eform_form .content .form_input input{
+    width: 100%;
+    border: 0;
+    font-size: 18px;
+    color: #000;
+}
+.eform_form .content .form_input input:focus{
+    outline: none;
+}
+.eform_form .content .form_input input::placeholder {
+    font-size: 16px;
+    font-weight: bold;
+    color: #95a0ab;
+}
+.eform_form .content .form_input label{
+    font-size: 18px;
+    font-weight: 700;
+    color: #363636;
+    white-space: nowrap;
+}
+.eform_form .content .form_input label span{
+    color: red;
+    margin: 0 2px 0 0;
+}
+.eform_form .content .form_function {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #c8d3dd;
+    padding: 16.5px 20px;
+}
+.eform_form .content .form_function h2{
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+    width: 100%;
+    max-width: 85px;
+}
+.eform_form .content .form_function h2 span{
+    color: #ff0000;
+    margin: 0 2px 0 0;
+}
+.eform_form .content .form_function .form_functionslides{
+    display: flex;
+    flex-wrap: wrap;
+}
+.eform_form .content .form_function .form_functionslides .form_functionslide{
+    margin: 0 20px 10px 0;
+}
+.eform_form .content .form_job {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #c8d3dd;
+    padding: 16.5px 20px;
+}
+.eform_form .content .form_job h2{
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+    width: 100%;
+    max-width: 85px;
+}
+.eform_form .content .form_job h2 span{
+    color: #ff0000;
+    margin: 0 2px 0 0;
+}
+.eform_form .content .form_job .form_jobslides{
+    display: flex;
+    flex-wrap: wrap;
+}
+.eform_form .content .form_job .form_jobslides .form_jobslide{
+    margin: 0 20px 10px 0;
+}
+.eform_form .content .form_select:nth-child(1) .form_uls ul{
+    z-index: 999;
+}
+.eform_form .content .form_select{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 60px;
+    padding: 0 20px;
+    border-bottom: 1px solid #c8d3dd;
+}
+.eform_form .content .form_select h2{
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+}
+.eform_form .content .form_select h2 span{
+    color: #ff0000;
+    margin: 0 2px 0 0;
+}
+.eform_form .content .form_select .form_uls{
+    width: 100%;   
+    max-width: 300px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #f2f2f2;
+    cursor: pointer;
+}
+.eform_form .content .form_select .form_uls .form_ultitle{
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    padding: 7.5px 0;
+    border: 1px solid transparent;
+    -moz-border-image: -moz-linear-gradient(top left, #00ccff 0%, #4760ff 100%);
+    -webkit-border-image: -webkit-linear-gradient(top left, #00ccff 0%, #4760ff 100%);
+    border-image: linear-gradient(to bottom right, #00ccff 0%, #4760ff 100%);
+	border-image-slice: 1;
+    /* border-bottom: 0; */
+}
+.eform_form .content .form_select .form_uls .form_ultitle::after{
+    content: url("../images/eforms/triangle.png");
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    transform: translate(0,-50%);
+}
+.eform_form .content .form_select ul{
+    display: none;
+    width: 100%;
+    height: 320px;
+    overflow-y: scroll;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    border: 1px solid transparent;
+    -moz-border-image: -moz-linear-gradient(top left, #00ccff 0%, #4760ff 100%);
+    -webkit-border-image: -webkit-linear-gradient(top left, #00ccff 0%, #4760ff 100%);
+    border-image: linear-gradient(to bottom right, #00ccff 0%, #4760ff 100%);
+	border-image-slice: 1;
+    border-top: 0;
+    z-index: 99;
+}
+.eform_form .content .form_select ul li.form_li{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.eform_form .content .form_select ul li{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 18px;
+    color: #000;
+    padding: 8.5px 0;
+    cursor: pointer;
+    background: #f2f2f2;
+}
+.eform_form .content .form_select ul li:hover{
+    background: #8ae3f4;
+}
+.eform_form .content .form_select input[type='text']{
+    display: none;
+}
+.eform_form .content input[type='radio'],
+.eform_form .content input[type='checkbox']{
+    display: none;
+}
+.eform_form .content input[type='radio']:checked + label .cate_box,
+.eform_form .content input[type='checkbox']:checked + label .cate_box{
+    background: #4593e1;
+}
+.eform_form .content .form_categorys{
+    padding: 0 50px;   
+}
+.eform_form .content .form_categorys .categorys_content{
+    padding: 20px 20px;
+}
+.eform_form .content .form_categorys h2{
+    font-size: 18px;
+    font-weight: bold;
+    color: #363636;
+    margin: 0 0 15px;
+}
+.eform_form .content .form_categorys .categorys_content h2 span{
+    color: #ff0000;
+    margin: 0 2px 0 0;
+}
+.eform_form .content .form_category{
+    margin: 0 0 2px;
+}
+.eform_form .content .form_category h3{
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    background: linear-gradient(to right, #0dccff 0%, #4760ff 100%);
+    padding: 8px 0;
+    text-align: center;
+    position: relative;
+    cursor: pointer;
+}
+.eform_form .content .form_category h3::after{
+    content: url("../images/eforms/trianglefff.png");
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    transform: translate(0,-50%);
+}
+.eform_form .content .form_category .form_cates{
+    background: #f2f2f2;
+    border: 1px solid transparent;
+    -moz-border-image: -moz-linear-gradient(top left, #00ccff 0%, #4760ff 100%);
+    -webkit-border-image: -webkit-linear-gradient(top left, #00ccff 0%, #4760ff 100%);
+    border-image: linear-gradient(to bottom right, #00ccff 0%, #4760ff 100%);
+	border-image-slice: 1;
+}
+.eform_form .content .form_cateall{
+    margin: 0 0 25px;
+}
+.eform_form .content .form_cateall .cate_box{
+    width: 18px;
+    height: 18px;
+    background: transparent;
+    border: 2px solid #000000;
+    margin: 0 5px 0 0;
+}
+.eform_form .content .cate_box{
+    width: 16px;
+    height: 16px;
+    background: transparent;
+    border: 1px solid #000000;
+    margin: 0 5px 0 0;
+    cursor: pointer;
+}
+.eform_form .content .form_category .form_cates{
+    padding: 20px 0 25px 25px;
+    display: none;
+}
+.eform_form .content label{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    color: #000;
+}
+.eform_form .content .form_category .form_cates .form_cateall label{
+    font-size: 20px;
+    font-weight: bold;
+    color: #000000;
+}
+.eform_form .content .form_cate{
+    display: flex;
+    align-items: center;
+    margin: 0 0 15px;
+    flex-wrap: wrap;
+}
+.eform_form .content .form_cate h4{
+    background: #4593e1;
+    border-radius: 12.5px;
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+    padding: 4px 15px;
+    letter-spacing: 2px;
+    margin: 0 15px 0 0;
+}
+.eform_form .content .form_cate .cate_input{
+    margin: 0 15px 0 0;
+    line-height: 1.5;
+}
+.eform_form .content .form_consult{
+    padding: 0 50px;
+}
+.eform_form .content .form_consult .consult_content{
+    padding: 20px;
+    border-top: 1px solid #c8d3dd;
+}
+.eform_form .content .form_consult .consult_content h2{
+    font-size: 18px;
+    font-weight: bold;
+    color: #363636;
+    margin: 0 0 10px;
+}
+.eform_form .content .form_consult .consult_content textarea{
+    width: 100%;
+    height: 150px;
+    border: 1px solid transparent;
+    -moz-border-image: -moz-linear-gradient(top left, #00ccff 0%, #4760ff 100%);
+    -webkit-border-image: -webkit-linear-gradient(top left, #00ccff 0%, #4760ff 100%);
+    border-image: linear-gradient(to bottom right, #00ccff 0%, #4760ff 100%);
+	border-image-slice: 1;
+    background: #f2f2f2;
+    padding: 10px;
+    font-size: 16px;
+    resize: none;
+    color: #000;
+}
+.eform_form .content .form_consult .consult_content textarea:focus{
+    outline: none;
+}
+.eform_form .content .form_consult .consult_content textarea::placeholder {
+    font-size: 16px;
+    color: #929292;
+    padding: 0;
+}
+.eform_form .content .form_other{
+    padding: 0 50px;
+}
+.eform_form .content .form_other .other_content{
+    padding: 20px 20px 5px;
+    border-top: 1px solid #c8d3dd;
+}
+.eform_form .content .form_other .other_content h2{
+    font-size: 18px;
+    font-weight: bold;
+    color: #363636;
+    margin: 0 0 15px;
+    line-height: 1.3;
+}
+.eform_form .content .form_other .other_content .form_cate .cate_input{
+    margin: 0 20px 20px 0;
+}
+.eform_form .content .form_verifica{
+    padding: 0 50px;
+}
+.eform_form .content .form_verifica .verifica_content{
+    display: flex;
+    padding: 20px;
+    border-top: 1px solid #c8d3dd;
+    border-bottom: 1px solid #c8d3dd;
+}
+.eform_form .content .form_verifica .verifica_content .Contact_input{
+    display: flex;
+    margin: 0 15px 0 0;
+}
+.eform_form .content .form_verifica .verifica_content .Contact_input input{
+    letter-spacing: 2px;
+    font-weight: bold;
+    border: 0px;
+    font-size: 18px;
+    width: 100%;
+    text-align: center;
+    border: 1px solid transparent;
+    -moz-border-image: -moz-linear-gradient(top left, #00ccff 0%, #4760ff 100%);
+    -webkit-border-image: -webkit-linear-gradient(top left, #00ccff 0%, #4760ff 100%);
+    border-image: linear-gradient(to bottom right, #00ccff 0%, #4760ff 100%);
+	border-image-slice: 1;
+    background: #f2f2f2;
+    color: #000;
+}
+.eform_form .content .form_verifica .verifica_content .Contact_input input:focus{
+    outline: none;
+}
+.eform_form .content .form_verifica .verifica_content .Contact_input label{
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+    white-space: nowrap;
+}
+.eform_form .content .form_verifica .verifica_content .Contact_input label span{
+    color: #ff0000;
+    margin: 0 2px 0 0;
+}
+.eform_form .content .form_verifica .verifica_content .Contact_codes{
+    display: flex;
+    align-items: center;
+}
+.eform_form .content .form_verifica .verifica_content .Contact_codes input{
+    width: 120px;
+    height: 40px;
+    border: 0;
+    margin: 0 10px 0 0;
+    background: url('../images/eforms/identCode.jpg');
+    color: #555;
+    font-size: 20px;
+    font-family: "Arial";
+    font-style: italic;
+    font-weight: bold;
+    letter-spacing: 4px;
+    vertical-align: middle;
+}
+.eform_form .content .form_verifica .verifica_content .Contact_Remake{
+    width: 28px;
+    height: 30px;
+    cursor: pointer;
+    background: url("../images/eforms/reloadDark.png");
+}
+.eform_form .content .form_submit{
+    padding: 20px 50px 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.eform_form .content .form_submit button{
+    width: 100%;
+    max-width: 400px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #4593e1;
+    border-radius: 5px;
+    border: 0px;
+    letter-spacing: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+}
+.eform_form .content .form_submit .form_privacy{
+    display: flex;
+    margin: 10px 0 0;
+}
+.eform_form .content .form_submit .form_privacy label{
+    font-weight: bold;
+}
+.eform_form .content .form_submit .form_privacy label a{
+    color: #000;
+    border-bottom: 1px solid #000;
+}
+#fromSource{
+    display: none;
+}
+@media screen and (max-width:1024px){
+    .eform_form .content .form_inputs{
+        flex-wrap: wrap;
+    }
+}
+@media screen and (max-width:768px){
+    .eform_header{
+        background: url("../images/eforms/header-bgM.png") no-repeat center;
+    }
+    .eform_header .content h1{
+        font-size: 38px;
+    }
+    .eform_header .content h2{
+        font-size: 18px;
+        text-align: left;
+    }
+    .eform_header .content .header_serve .header_servetxt h3{
+        font-size: 20px;
+    }
+    .eform_form .content h1{
+        font-size: 18px;
+    }
+    .eform_form .content .form_inputs,.eform_form .content .form_categorys,.eform_form .content .form_consult,.eform_form .content .form_other,.eform_form .content .form_verifica{
+        padding: 0 10px;
+    }
+    .eform_form .content .form_categorys .categorys_content,.eform_form .content .form_consult .consult_content,.eform_form .content .form_other .other_content,.eform_form .content .form_verifica .verifica_content{
+        padding: 20px 0;
+    }
+    .eform_form .content .form_submit{
+        padding: 20px 10px 40px;
+    }
+    .eform_form .content .form_input label,.eform_form .content .form_select h2,.eform_form .content .form_categorys h2,.eform_form .content .form_consult .consult_content h2,.eform_form .content .form_other .other_content h2,.eform_form .content .form_select .form_uls .form_ultitle,.eform_form .content label,.eform_form .content .form_verifica .verifica_content .Contact_input label{
+        font-size: 16px;
+    }
+    .eform_form .content .form_select .form_uls{
+        max-width: 230px;
+    }
+    .eform_form .content .form_verifica .verifica_content .Contact_codes input{
+        width: 80px;
+        margin: 0;
+    }
+    .eform_form .content .form_verifica .verifica_content .Contact_input{
+        margin: 0 5px 0 0;
+    }
+    .eform_form .content .form_cate{
+        flex-wrap: initial;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .eform_form .content .form_cate.form_catemb{
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    .eform_form .content .form_cate h4{
+        margin: 0 0 10px;
+    }
+}

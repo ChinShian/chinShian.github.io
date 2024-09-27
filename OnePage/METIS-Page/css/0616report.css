@@ -1,0 +1,392 @@
+strong {
+    font-weight: bold !important;
+}
+.Report .Report_banner {
+    height: 550px;
+    background: url("../images/report/report_bg.png") no-repeat center;
+}
+@media screen and (max-width: 1000px) {
+    .Report .Report_banner {
+        /* height: calc(300px + (550 - 300) * ((100vw - 360px) / (1000 - 360))); */
+    }
+}
+.Report .Report_banner .Report_header {
+    width: 100%;
+    max-width: 1000px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 0 0;
+    margin: 0 auto;
+}
+.Report .Report_banner .Report_header img {
+    width: 100%;
+    max-width: 127px;
+    height: 42px;
+}
+.Report .Report_banner .Report_header a {
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+}
+.Report .Report_banner .content {
+    height: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+@media screen and (max-width: 1000px) {
+    .Report .Report_banner .content {
+        align-items: center;
+    }
+}
+.Report .Report_article {
+    background-color: #2e3191;
+    padding: 35px 0 50px;
+}
+
+.Report .Report_article .content {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.Report .Report_article .content .Report_title {
+    padding: 0 15px;
+}
+
+.Report .Report_article .content .Report_title h1 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    line-height: 1.3;
+    margin: 0 0 20px;
+}
+
+.Report .Report_article .content .Report_title h2 {
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 1.3;
+    color: #16fff7;
+    text-align: center;
+    margin: 0 0 33px;
+}
+
+.Report .Report_article .content .Report_title p {
+    font-size: 18px;
+    color: #b2fffc;
+    line-height: 1.5;
+    margin: 20px 0 0;
+    text-align: center;
+}
+
+.Report .Report_article .content .Report_title a {
+    width: 100%;
+    max-width: 460px;
+    height: 60px;
+    border-radius: 30px;
+    border: 2px solid #ffffff;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+    margin: 45px auto 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right, #a509fe, #1a4bff);
+}
+.Report .Report_article .content .Report_title a span {
+    color: #fff4b5;
+}
+.Report .Report_h1 {
+    position: relative;
+    height: 47px;
+    margin: 60px 0 40px;
+}
+.Report .Report_h1 h1 {
+    width: 100%;
+    max-width: 250px;
+    margin: 0 auto;
+    height: 50px;
+    font-size: 28px;
+    font-weight: bold;
+    color: #2e3191;
+    background: #69f3e4;
+    border-radius: 30px 0 30px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.Report .Report_h1::after {
+    content: "";
+    width: 100%;
+    height: 2px;
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    left: 0;
+    background: #69f3e4;
+    transform: translate(0, -50%);
+}
+.Report .Report_article .content .Report_arts .Report_artsa {
+    width: 100%;
+    max-width: 460px;
+    height: 60px;
+    border-radius: 30px;
+    border: 2px solid #ffffff;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+    margin: 45px auto 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right, #a509fe, #1a4bff);
+}
+
+.Report .Report_article .content .Report_arts .Report_artsa span {
+    color: #fff4b5;
+}
+.Report .Report_article .content .Report_arts .Report_artsa2 {
+    font-size: 18px;
+    color: #fff;
+    line-height: 1.5;
+    text-align: justify;
+}
+.Report .Report_article .content .Report_arts .Report_artsa2 span {
+    color: #fff4a5;
+    font-size: 18px;
+    font-weight: normal;
+}
+.Report .Report_arts p {
+    font-size: 18px;
+    color: #fff;
+    line-height: 1.5;
+    text-align: justify;
+    margin: 0 0 30px;
+}
+.Report .Report_arts p span {
+    font-size: 26px;
+    font-weight: bold;
+    color: #16fff7;
+}
+.Report .Report_arts p .color1 {
+    color: #fff4a5;
+    font-size: 18px;
+    font-weight: normal;
+}
+.Report .Report_arts .color2 {
+    color: #b2fffc;
+    font-size: 18px;
+    font-weight: normal;
+    text-align: center;
+    line-height: 1.5;
+    margin: 20px 0 0;
+}
+.Report .Report_arts .Report_arttext {
+    margin: 0 0 40px;
+    display: inline-block;
+}
+
+.Report .Report_arts .Report_arttext .Report_artimg {
+    width: 100%;
+    max-width: 250px;
+    float: left;
+    margin: 0 30px 15px 0;
+}
+.Report .Report_arts .Report_arttext .Report_artimg img {
+    width: 100%;
+    max-width: 250px;
+    height: 170px;
+}
+.Report .Report_arts .Report_arttext .Report_artimg.Report_artimgR {
+    float: right;
+    margin: 0 0 15px 30px;
+}
+
+.Report .Report_arts .Report_arttext .Report_artimg h6 {
+    font-size: 18px;
+    color: #b2fffc;
+    margin: 15px 0 0;
+    text-align: center;
+    line-height: 1.3;
+}
+
+.Report .Report_article .content .Report_arts .Report_arttext .Report_arttxt {
+    width: 100%;
+}
+
+.Report .Report_article .content .Report_wonderful {
+    margin: 85px 0 0;
+}
+
+.swiper {
+    width: 100%;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+
+.swiper-slide {
+    background-size: cover;
+    background-position: center;
+}
+.mySwiper2 .swiper-button-next {
+    color: #fff;
+}
+.mySwiper2 .swiper-button-prev {
+    color: #fff;
+}
+.mySwiper2 {
+    height: 80%;
+    width: 100%;
+    position: relative;
+}
+
+.mySwiper {
+    height: 20%;
+    box-sizing: border-box;
+    padding: 10px 0;
+}
+
+.mySwiper .swiper-slide {
+    width: 25%;
+    height: 100%;
+    opacity: 0.4;
+}
+
+.mySwiper .swiper-slide-thumb-active {
+    opacity: 1;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.Report_about {
+    display: flex;
+    flex-direction: column;
+}
+.Report_about h2 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    padding: 40px 0 20px;
+}
+.Report_about p {
+    font-size: 18px;
+    font-weight: normal;
+    color: #fff;
+    line-height: 1.5;
+}
+@media screen and (max-width: 1000px) {
+    .Report .Report_arts p {
+        padding: 0 15px;
+    }
+    .Report .Report_arts .Report_arttext {
+        padding: 0 15px;
+    }
+    .Report .Report_arts .Report_arttext p {
+        padding: 0;
+    }
+    .Report_about {
+        padding: 0 15px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .Report .Report_banner .content {
+        padding: 0 10px;
+    }
+    .Report .Report_bread .content {
+        padding: 25px 10px;
+    }
+    .Report .Report_article .Report_Master {
+        display: flex;
+        justify-content: center;
+        padding: 50px 0 0;
+    }
+    .Report .Report_article .content .Report_title h1 {
+        font-size: 24px;
+        margin: 40px 0 30px;
+    }
+    .Report .Report_article .content .Report_title h2 {
+        font-size: 20px;
+    }
+    .Report .Report_article .content .Report_title p {
+        font-size: 15px;
+    }
+    .Report .Report_article .content .Report_title a,
+    .Report .Report_article .content .Report_arts .Report_artsa {
+        font-size: 15px;
+    }
+    .Report .Report_article .content .Report_arts .Report_arttext {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .Report
+        .Report_article
+        .content
+        .Report_arts
+        .Report_arttext
+        .Report_artimg {
+        margin: 0;
+        padding: 0;
+    }
+    .Report
+        .Report_article
+        .content
+        .Report_arts
+        .Report_arttext
+        .Report_artimg
+        h6 {
+        font-size: 14px;
+        text-align: center;
+    }
+    .Report
+        .Report_article
+        .content
+        .Report_arts
+        .Report_arttext
+        .Report_arttxt {
+        margin: 30px 0 0;
+    }
+    .Report
+        .Report_article
+        .content
+        .Report_arts
+        .Report_arttext
+        .Report_arttxt
+        p {
+        font-size: 15px;
+    }
+    .Report .Report_arts p {
+        font-size: 15px;
+    }
+    .Report .Report_arts p span {
+        font-size: 20px;
+    }
+    .Report
+        .Report_article
+        .content
+        .Report_arts
+        .Report_arttext
+        .Report_arttxtB {
+        margin: 0;
+    }
+    .Report .Report_article .content .Report_arts .Report_artimgs h6 {
+        font-size: 14px;
+    }
+}
